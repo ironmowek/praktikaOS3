@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Неговора Александра Практика 3/1.0.0": {
+        "runtime": {
+          "Неговора Александра Практика 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Неговора Александра Практика 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
